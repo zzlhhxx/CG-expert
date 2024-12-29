@@ -1,0 +1,5 @@
+1、aminer_download_zl_path 专利列表下载，单线程
+2、aminer_download_zl_html 读取专利列表id入库 aminer_zl 字段zl_ids中
+3、aminer_download_zl_detail_html 多线程下载专利详情
+
+步骤1+步骤2+步骤3
